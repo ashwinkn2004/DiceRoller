@@ -1,16 +1,17 @@
-# roll_dice
+#Dice Roller 🎲
+Dice Roller is a lightweight web application designed for quickly rolling standard six-sided dice. With its simple user interface and efficient functionality, Dice Roller makes generating random numbers between 1 and 6 a breeze.
 
-A new Flutter project.
+#Features
+1. Roll dice from 1 to 6 with a single click.
+2. Straightforward user interface for easy navigation.
+   
+#Usage
+1. Visit Dice Roller.
+2. Click the "Roll Dice" button to instantly generate a random number between 1 and 6.
+3. Repeat as needed for all your dice rolling needs!
 
-## Getting Started
+#Feedback
+Have suggestions, encountered issues, or want to contribute to the project? We'd love to hear from you! Please share your thoughts on our GitHub repository.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#License
+This project is licensed under the MIT License.
